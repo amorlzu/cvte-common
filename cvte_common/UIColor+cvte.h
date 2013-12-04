@@ -10,4 +10,7 @@
 
 @interface UIColor (cvte)
 
+
++ (UIColor *)colorWithRGBHex:(UInt32)hex;
+
 @end

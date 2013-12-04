@@ -6,9 +6,4 @@
 //  Copyright (c) 2013年 cvte. All rights reserved.
 //
 
-#ifndef cvte_common_demo_CVTECommon_h
-#define cvte_common_demo_CVTECommon_h
-
-
-
-#endif
+#import "UIColor+cvte.h"
